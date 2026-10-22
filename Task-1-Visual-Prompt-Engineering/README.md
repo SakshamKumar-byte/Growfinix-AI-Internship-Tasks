@@ -1,38 +1,34 @@
 # Task 1: Visual Prompt Engineering
 
-## 1. Project Title
+## Internship
 
-Ultra-Realistic Cinematic Portrait at Golden Hour
+Growfinix AI Internship
 
-## 2. Objective
+## Objective
 
-To create a realistic and cinematic portrait of a young South Asian woman using a detailed AI image-generation prompt.
+The objective of this task is to learn visual prompt engineering by creating AI-generated images using detailed text prompts.
 
-## 3. AI Image Generation Prompt
+## Tools Used
 
-Create an ultra-realistic, cinematic photograph of a beautiful young South Asian woman standing on a rooftop during golden hour at sunset. She has long, naturally wavy dark black hair flowing gently in the evening breeze, realistic skin texture, natural facial features, expressive dark eyes, and a calm, confident expression. She is wearing an elegant black outfit with delicate silver embroidery and subtle silver accessories.
+* AI image generation tools
+* Prompt engineering techniques
 
-Her body is turned slightly sideways while her face is gently turned toward the camera. Capture a natural, relaxed pose with realistic body proportions and authentic facial details.
+## Work Done
 
-Use warm golden-hour sunlight, soft shadows, natural highlights on the face, a softly blurred urban background, shallow depth of field, professional portrait photography, an 85mm lens look, realistic colors, fine details, and cinematic composition. The final image should look like a real photograph, not a digital painting or illustration.
+* Created detailed prompts for AI image generation.
+* Generated images using text prompts.
+* Explored how different prompt details affect the final image.
 
-## 4. Prompt Engineering Techniques Used
+## Project Structure
 
-* **Subject Description:** Defined the subject and appearance.
-* **Clothing Details:** Specified a black outfit with silver embroidery.
-* **Lighting:** Used warm golden-hour sunset lighting.
-* **Pose and Composition:** Described the body position and facial direction.
-* **Camera Style:** Specified an 85mm portrait lens look and shallow depth of field.
-* **Realism:** Included natural skin texture, realistic proportions, and authentic details.
+* `prompts.md` – Contains the prompts used to generate images.
+* `images/` – Contains the AI-generated images.
 
-## 5. Expected Output
+## Learning Outcomes
 
-A high-quality, ultra-realistic cinematic portrait with natural facial features, elegant clothing, warm sunset lighting, and a softly blurred rooftop background.
+* Learned how to write clear and descriptive AI prompts.
+* Understood how lighting, composition, camera angles, and style affect generated images.
 
-## 6. Result
+## Results
 
-The AI-generated image will be saved in the `images/` folder of this project.
-
-## 7. Learning Outcome
-
-This task demonstrates how clear subject descriptions, lighting instructions, clothing details, pose, and camera-style keywords can influence the quality and appearance of AI-generated images.
+The prompts and generated images will be uploaded to this repository.
